@@ -1,3 +1,5 @@
+![Dashboard](churn-analysis-dashboard.png)
+
 ## 📊 Bank Customer Churn Analysis Dashboard
 
 This project analyzes customer churn behavior using a banking dataset to identify key factors influencing customer retention.
