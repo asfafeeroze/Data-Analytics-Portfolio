@@ -1,5 +1,8 @@
 ![Dashboard](churn-analysis-dashboard.png)
 
+
+Live Dashboard: [View Here](https://public.tableau.com/app/profile/asfa.feeroze/viz/BankCustomerChurnDashboard_17739172593260/Dashboard1?publish=yes)
+
 ## 📊 Bank Customer Churn Analysis Dashboard
 
 This project analyzes customer churn behavior using a banking dataset to identify key factors influencing customer retention.
